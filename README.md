@@ -27,7 +27,7 @@ This project is a simple yet effective Enigmatic Password Generator. It provides
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Abhinendra2016/enigmatic-password-generator.git
+    git clone https://github.com/Abhinendra2016/The-Enigmatic-Password-Genrator-.git
     ```
 
 2. Open the `index.html` file in your web browser.
